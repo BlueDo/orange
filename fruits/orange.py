@@ -1,0 +1,4 @@
+
+
+def shout():
+    return "orange"
